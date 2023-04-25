@@ -72,7 +72,7 @@ int verificaCpf (string cpf)
         {
             int opcao;
             string cpf_str;
-
+            //cria o menu do sistema
             do
             {
                 cout << "Pressione [0] Para terminar." << endl;
